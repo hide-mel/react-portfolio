@@ -1,6 +1,6 @@
 # react-portfolio
  
-React Portfolio
+React Portfolio Website
 Installed packages:
 - react-icons
 - swiper
