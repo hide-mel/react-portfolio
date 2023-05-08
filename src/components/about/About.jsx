@@ -28,7 +28,7 @@ const About = () => {
             </article>
             <article className='about__card'>
               <FiUsers className='about__icon'/>
-              <h5>Clients</h5>
+              <h5>Companies</h5>
               <small>Japan and Australia</small>
             </article>
             <article className='about__card'>
@@ -41,7 +41,8 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio deserunt dolor amet nisi dolorem doloremque consequatur soluta, ipsam ad a esse beatae perspiciatis quae molestias deleniti, iusto illo aliquid illum!
+            I recently completed a master degree of information technology and was involved in number of software development projects and internships.
+            I love 3d printing as my hobby and discovering nature. 
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>

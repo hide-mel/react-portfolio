@@ -10,37 +10,37 @@ const data= [
   {
     id: 1,
     image: IMG1,
-    title: 'portfolio 1',
-    github: 'http://github.com',
-    demo: 'https://dribbble.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization'
+    title: 'Instagram Maps',
+    github: 'https://github.com/hide-mel/insta-maps-react-flask',
+    demo: ''
   },
   {
     id: 2,
     image: IMG2,
-    title: 'portfolio 2',
-    github: 'http://github.com',
-    demo: 'https://dribbble.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization'
+    title: 'Todo List',
+    github: 'https://github.com/hide-mel/todos-express-react-mongodb',
+    demo: ''
   },
   {
     id: 3,
     image: IMG3,
-    title: 'portfolio 3',
-    github: 'http://github.com',
-    demo: 'https://dribbble.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization'
+    title: 'Admin Dashbord',
+    github: '',
+    demo: ''
   },
   {
     id: 4,
     image: IMG4,
-    title: 'portfolio 4',
-    github: 'http://github.com',
-    demo: 'https://dribbble.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization'
+    title: 'Quiz App',
+    github: '',
+    demo: ''
   },
   {
     id: 5,
     image: IMG5,
-    title: 'portfolio 5',
-    github: 'http://github.com',
-    demo: 'https://dribbble.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization'
+    title: 'Vessel Maps',
+    github: '',
+    demo: ''
   }
 ];
 
